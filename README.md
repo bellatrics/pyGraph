@@ -1,2 +1,2 @@
 # pyGraph
-useful and less useful function on graph packege NetworkX
+useful and less useful functions for NetworkX
